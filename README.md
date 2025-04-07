@@ -1,5 +1,5 @@
 ```mermaid
-flowchart TD
+flowchart LR
     시작([시작])
     데이터준비 --> 시작
     코드작성 --> 시작
