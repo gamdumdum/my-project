@@ -14,8 +14,6 @@ flowchart LR
     피드백1 -->|피드백 반영| Yolo
     피드백1 -->|피드백 반영| 코드검토
 
-    classDef invisible fill=none,stroke=none;
-
 
 
 
