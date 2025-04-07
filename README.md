@@ -21,7 +21,7 @@ flowchart LR
 
 ```mermaid
 flowchart RL
-    코드검토-->실행
+    코드-->실행
     Yolo -->실행[프로그램 실행]
     검토[검토] -->|피드백 반영|Yolo[YOLO 모델 구축]
     검토 -->|피드백 반영|코드[코드작성]
