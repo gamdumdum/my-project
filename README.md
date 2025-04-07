@@ -5,6 +5,12 @@ flowchart LR
     시작 -->|Train 데이터 준비| Yolo[YOLO 모델 구축]
     시작 -->|코드 작성| 코드검토[코드검토]
 
+
+
+
+    Yolo --> 실행[프로그램 실행]
+    코드검토 --> 실행[프로그램 실행]
+    
 ```
 ```mermaid
 flowchart TD
